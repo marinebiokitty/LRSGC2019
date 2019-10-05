@@ -24,7 +24,7 @@
 %%
 %% When you change this, make sure the name of this file and the name
 %% of the game's environment variable both match it.  See ../README.
-\def\gameclassname{GL2020}
+\def\gameclassname{GC2019}
 
 
 %%%%%
@@ -38,8 +38,8 @@
 %%
 %% Basic custom game information; gets used everywhere.  Don't put
 %% linebreaks in these and keep their lengths reasonable.
-\def\gamename{Grand Larp 2020 NEEDS A NAME}
-\def\gamedate{NOV 2020 NEEDS A DATE}
+\def\gamename{Guild Camp 2019}
+\def\gamedate{TBD}
 
 
 %%%%%
